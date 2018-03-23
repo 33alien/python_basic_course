@@ -1,4 +1,4 @@
-age = int (input("How old are you?\n"))
+age = int (input("How old are you?\n"))             # Enter the age
 x = 2018
 year = 2018 - age
 
