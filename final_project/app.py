@@ -1,6 +1,6 @@
 import csv
 
-from final_project.utils._1 import *
+from final_project.utils.my_functions_2 import *
 
 header = ["Name", "Phone", "Exp_day", "Card"]
 records = []
