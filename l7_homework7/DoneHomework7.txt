@@ -1,0 +1,6 @@
+ Your data has been accepted for processing.
+ Name: OHDAN POLISHCHUK
+ Credit Card: 0000 1111 2222 3333
+ MM/YY: 12/99
+ Cvv: 999
+ Please wait!
